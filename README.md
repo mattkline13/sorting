@@ -8,6 +8,7 @@
 |Quicksort      |O(n log n)     |O(n log n)     |Usually No     |
 |Heapsort       |O(n log n)     |O(n log n)     |No             |
 |Counting Sort  |O(k + n)       |O(k + n)       |Yes            |
+|Shell Sort     |O(n log n)     |O(n log n)     |No             |
 
 ## Language Support
 Currenly written in Java with Python support coming soon. 
