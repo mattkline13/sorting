@@ -10,4 +10,4 @@
 |Counting Sort  |O(k + n)       |O(k + n)       |Yes            |
 
 ## Language Support
-Currenly written in Java and Python support coming soon. 
+Currenly written in Java with Python support coming soon. 
